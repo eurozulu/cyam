@@ -1,0 +1,7 @@
+someproperty: someValue
+anotherone:
+  with-child: childvalue
+one:
+  two:
+    half:
+    three: test
